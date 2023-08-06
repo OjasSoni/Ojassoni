@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hi, I’m Ojas Soni<br>I am interested in Problem solving<br>Currently learning backend<br> How to reach me email-ojassoni0221@gmail.com
+👋Hi, I’m Ojas Soni<br>🔭I am interested in Problem solving<br>🌱 Currently learning backend<br> 📫How to reach me email ojassoni0221@gmail.com
 
 
 ## 🌐 Socials:
