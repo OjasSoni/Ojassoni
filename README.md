@@ -11,3 +11,8 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**My leetcode**
+
+
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=PRIME_OP)](https://leetcode.com/PRIME_OP/)
