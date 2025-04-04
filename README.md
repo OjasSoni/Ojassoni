@@ -17,4 +17,4 @@
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=PRIME_OP)](https://leetcode.com/PRIME_OP/)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=OjasSoni&show_icons=true&theme=radical)
